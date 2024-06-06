@@ -1,4 +1,4 @@
-# Gearpoint
+# Welcome to Gearpoint 🙌
 
 Gearpoint is a versatile platform designed for car enthusiasts. It combines the features of a social media platform and an event ticketing system. Whether you’re passionate about cars, attending automotive events, or connecting with fellow enthusiasts, Gearpoint has you covered.
 
